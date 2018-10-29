@@ -1,4 +1,4 @@
-Monopoly Adjudicator Platform for our Data Science Project
+## Adjudicator Platform for monopoly AI Agent
 
 
 ![Architecture](Architecture.png)
