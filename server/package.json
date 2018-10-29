@@ -1,0 +1,23 @@
+{
+  "name": "game-server",
+  "version": "1.0.0",
+  "description": "The centralised cordinator for the games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varun93/monopoly-platform.git"
+  },
+  "keywords": [
+    "node-js",
+    "game-server"
+  ],
+  "author": "Varun Hegde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varun93/monopoly-platform/issues"
+  },
+  "homepage": "https://github.com/varun93/monopoly-platform#readme"
+}
